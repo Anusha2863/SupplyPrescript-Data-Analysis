@@ -176,5 +176,5 @@ The final Power BI dashboard presents the key supply chain performance indicator
 
 ### Final Dashboard
 
-<img width="1536" height="1024" alt="SupplyPrescript_Dashboard pbix" src="https://github.com/user-attachments/assets/fd9867af-e60c-4dda-8ab8-d62bc5ef19aa" />
+<img width="1536" height="1024" alt="SupplyPrescript_Dashboard pbix" src="https://github.com/user-attachments/assets/12ce28b9-6ef9-4ad7-9467-ebf14d5544b8" />
 
