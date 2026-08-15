@@ -144,13 +144,14 @@ SupplyPrescript-Data-Analysis/
 ├── 04_feature_engineering.ipynb
 ├── 05_correlation_analysis.ipynb
 ├── 06_business_insights.ipynb
-│
 ├── supply_chain_data (1).csv
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── SupplyPrescript_Dashboard.pbix.jpeg
+```
 
-## 7. Power BI Dashboard
+7. Power BI Dashboard
 
 The final Power BI dashboard presents the key supply chain performance indicators, analytical charts, and business insights generated from the project.
 
