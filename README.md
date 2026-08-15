@@ -149,3 +149,32 @@ SupplyPrescript-Data-Analysis/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
+## 7. Power BI Dashboard
+
+The final Power BI dashboard presents the key supply chain performance indicators, analytical charts, and business insights generated from the project.
+
+### Dashboard KPIs
+
+- Total Revenue
+- Total Cost
+- Estimated Profit
+- Profit Margin %
+- Total Products Sold
+- Average Defect Rate
+
+### Dashboard Visualizations
+
+- Revenue by Product Type
+- Estimated Profit by Supplier
+- Manufacturing Cost vs Shipping Cost
+- Products Sold vs Stock Levels
+- Cost by Transportation Mode
+- Supplier Performance Comparison
+- Shipping Time vs Lead Time
+- Defect Rate by Product Type
+
+### Final Dashboard
+
+<img width="1536" height="1024" alt="SupplyPrescript_Dashboard pbix" src="https://github.com/user-attachments/assets/fd9867af-e60c-4dda-8ab8-d62bc5ef19aa" />
+
