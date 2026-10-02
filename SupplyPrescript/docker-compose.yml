@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16
+    container_name: supplyprescript-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: supplyprescript
+      POSTGRES_USER: supplyprescript
+      POSTGRES_PASSWORD: supplyprescript
+    ports:
+      - "5432:5432"
+    volumes:
+      - supplyprescript_pgdata:/var/lib/postgresql/data
+volumes:
+  supplyprescript_pgdata:

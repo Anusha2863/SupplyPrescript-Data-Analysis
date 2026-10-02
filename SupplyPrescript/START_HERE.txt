@@ -1,0 +1,20 @@
+SUPPLYPRESCRIPT – START HERE
+
+1. Extract/open this project in VS Code.
+2. Optional PostgreSQL: install Docker Desktop and run `docker compose up -d db`.
+3. Backend terminal:
+   cd backend
+   python -m venv .venv
+   .venv\Scripts\activate
+   pip install -r requirements.txt
+   copy .env.example .env
+   uvicorn main:app --reload --port 8000
+4. If PostgreSQL is not ready, edit backend/.env and set USE_CSV_FALLBACK=true.
+5. Second terminal:
+   cd frontend
+   npm install
+   npm run dev
+6. Open http://localhost:5173
+7. API docs: http://localhost:8000/docs
+
+The dashboard currently works directly with the supplied CSV. FastAPI endpoints are included for the next database-backed integration.
